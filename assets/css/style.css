@@ -1,0 +1,23 @@
+.post-date{
+  background: #D3D3D3;
+  padding: 4px;
+  margin: 3px 0;
+  display: block;
+}
+.img-thumbnail {
+  width: 60%;
+}
+.post-body,
+.image-photo
+{
+  margin-top: 25px;
+}
+.post-body{
+  margin-bottom: 25px;
+}
+.btn-danger{
+  margin-left: 10px;
+}
+#creating{
+  width: 70%;
+}
