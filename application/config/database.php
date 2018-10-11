@@ -76,7 +76,7 @@ $url = parse_url(getenv("CLEARDB_DATABASE_URL"));
 
 $db['default'] = array(
 	'dsn'	=> '',
-	'hostname' => 'localhost',
+	'hostname' => 'test.localhost',
 	'username' => 'root',
 	'password' => 'root',
 	'database' => 'blogproject',
